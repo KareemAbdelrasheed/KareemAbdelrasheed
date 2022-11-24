@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KareemAbdelrasheed
-- 👀 I’m interested in Embedded Systems Enginerring.
+- 👀 I’m interested in Embedded Systems Engineering.
 - 🌱 I am currently learning how to interface with Microcontrollers.
 - 💞️ I'm looking forward to collaborating to get more knowledge.
 
